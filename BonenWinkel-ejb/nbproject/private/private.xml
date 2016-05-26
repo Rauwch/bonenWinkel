@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/labo3/CoffeeType.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/labo3/Coffee.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/Facades/TeaFacadeLocal.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/Facades/FarmerFacadeLocal.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/Facades/AbstractFacade.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/labo3/Reseller.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/labo3/Address.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/labo3/Product.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/Facades/CoffeeFacadeLocal.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/labo3/Tea.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/Facades/TeaFacade.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/remote/SalesManager.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/remote/ProductManager.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/Labo2/StockManager.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/Facades/FarmerFacade.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/Facades/ResellerFacadeLocal.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/Facades/CoffeeFacade.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/Facades/ResellerFacade.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/entities/Item.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/labo3/Farmer.java</file>
+            <file>file:/C:/Users/Anton/Documents/NetBeansProjects/BonenWinkel/BonenWinkel-ejb/src/java/Labo2/ShoppingCart.java</file>
+        </group>
+    </open-files>
+</project-private>
